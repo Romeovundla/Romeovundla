@@ -1,4 +1,4 @@
-<img src=""C:\Users\Asus\Downloads\Black and White Banner.png" alt="GitHub Banner" width="100%" />
+<img src="Black and White Banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello!, I'm Romeo Vundla, a IT Support, System Developer and Project Manager👋🏼:
 🎓 Currently pursuing a Bachelor's in Information Technology <br>👨🏼‍🎓 In addition to that i'm studying for my CompTia A+ and N+ Certification <br>🛠️ Skilled in .NET, C#, SQL Server, PowerShell, and Azure DevOps <br>🌍 Based in Johannesburg, open to relocation<br> 📫 Reach me: Romeopitso1728@gmail.com | +27 67 671 1600
